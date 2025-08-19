@@ -1,0 +1,3 @@
+(executable
+  (name occ)
+  (libraries base stdio))
